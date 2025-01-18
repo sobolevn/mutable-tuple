@@ -21,6 +21,8 @@ Please, don't use this!
 
 😱
 
+Docs about what is going on: [`PyTuple_SET_ITEM` C-API](https://docs.python.org/3/c-api/tuple.html#c.PyTuple_SET_ITEM)
+
 
 ## Install
 
