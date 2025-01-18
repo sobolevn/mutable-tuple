@@ -1,6 +1,6 @@
 # mutable_tuple
 
-[![test](https://github.com/sobolevn/mutable-tuple/actions/workflows/test.yml/badge.svg?branch=master&event=push)](https://github.com/sobolevn/mutable-tuple/actions/workflows/test.yml)
+[![test](https://github.com/sobolevn/mutable-tuple/actions/workflows/test.yaml/badge.svg?branch=master&event=push)](https://github.com/sobolevn/mutable-tuple/actions/workflows/test.yaml)
 
 Mutates your tuples.
 
