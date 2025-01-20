@@ -21,7 +21,8 @@ tuple_set_item(PyObject *self, PyObject *args)
         return NULL;
     }
 
-    PyTuple_SetItem(tup, index, obj);
+    Py_DECREF(PyTuple_GET_ITEM(tup, index));
+    PyTuple_SET_ITEM(tup, index, obj);
 
     Py_RETURN_NONE;
 }
