@@ -20,6 +20,7 @@ tuple_set_item(PyObject *self, PyObject *args)
         PyErr_SetString(PyExc_IndexError, "out of bounds");
         return NULL;
     }
+
     PyTuple_SetItem(tup, index, obj);
 
     Py_RETURN_NONE;
