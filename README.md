@@ -5,6 +5,7 @@
 Mutates your tuples.
 
 Please, don't use this!
+I created this just for fun for a video in my [the-best-python-course](https://github.com/sobolevn/the-best-python-course).
 
 
 ## Usage
